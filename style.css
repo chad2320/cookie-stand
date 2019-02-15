@@ -1,0 +1,18 @@
+body {
+    background: rgb(88, 128, 96);
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+}
+
+ul > li {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+}
